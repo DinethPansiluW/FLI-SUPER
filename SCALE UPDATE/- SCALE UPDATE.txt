@@ -1,0 +1,13 @@
+{ SCALE CODE }
+
+This is the code I want to update.  
+IMPORTANT: Only update the top code values using the Promo Price/MRP from the list below.  
+
+- Use only the Promo Price/MRP.  
+- Do NOT use any zero values.  
+- If the item or value is missing in the bottom list, do NOT change it in the top.  
+- If no match is found, keep the original value.  
+
+{ EXCEL CODE - NAME - PROMO PRICE }
+
+This section contains updated values to apply to the top code list.

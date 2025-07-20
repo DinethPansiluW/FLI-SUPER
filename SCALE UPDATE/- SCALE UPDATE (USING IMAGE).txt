@@ -1,0 +1,11 @@
+This IMAGE contains updated values to apply to the BOTTOM code list.  
+
+- Use only the Promo Price/MRP.  
+- Do NOT use any zero values.  
+- If the item or value is missing in the IMAGE, do NOT change it in the BOTTOM.  
+- If no match is found, keep the original value.
+
+This is the code I want to update.  
+IMPORTANT: Only update the top code values using the Promo Price/MRP from the list ON THE IMAGE.  
+
+{CODE} 
